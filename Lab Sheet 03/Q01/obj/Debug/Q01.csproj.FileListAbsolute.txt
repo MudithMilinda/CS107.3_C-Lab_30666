@@ -1,0 +1,7 @@
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\bin\Debug\Q01.exe.config
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\bin\Debug\Q01.exe
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\bin\Debug\Q01.pdb
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\obj\Debug\Q01.csproj.AssemblyReference.cache
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\obj\Debug\Q01.csproj.CoreCompileInputs.cache
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\obj\Debug\Q01.exe
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 03\Q01\obj\Debug\Q01.pdb
