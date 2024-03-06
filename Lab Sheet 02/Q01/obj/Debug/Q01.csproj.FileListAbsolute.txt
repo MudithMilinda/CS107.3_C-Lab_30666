@@ -1,0 +1,14 @@
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\bin\Debug\Q01.exe.config
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\bin\Debug\Q01.exe
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\bin\Debug\Q01.pdb
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\obj\Debug\Q01.csproj.AssemblyReference.cache
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\obj\Debug\Q01.csproj.CoreCompileInputs.cache
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\obj\Debug\Q01.exe
+C:\Users\DON\Documents\N Learn\1st year 3rd semester\C#\Tutorials\Tutorial 02\Q01\obj\Debug\Q01.pdb
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\bin\Debug\Q01.exe.config
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\bin\Debug\Q01.exe
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\bin\Debug\Q01.pdb
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\obj\Debug\Q01.csproj.AssemblyReference.cache
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\obj\Debug\Q01.csproj.CoreCompileInputs.cache
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\obj\Debug\Q01.exe
+C:\Users\DON\Downloads\CS107.3_C-sharp_Tutorial_29846-main\CS107.3_C-sharp_Tutorial_29846-main\Tutorial 02\Q01\obj\Debug\Q01.pdb
